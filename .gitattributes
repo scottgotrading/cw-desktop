@@ -1,0 +1,5 @@
+# Never apply line-ending conversion to binary release assets.
+*.pdf binary
+*.exe binary
+*.zip binary
+*.dmg binary
