@@ -7,6 +7,7 @@ A professional desktop trading platform built around **ChartsWatcher**, by SCOTT
 - Broker-style themes (DAS, IBKR, Webull, ThinkOrSwim, Lightspeed, Sterling and more) plus a full theme editor, density, corner and font controls
 - Custom title bar with market-session badge, opening and closing bells, market clock and live feed health
 - Always-on-top pinning per window, saved layout profiles you can switch or pick at startup
+- Pop out any tab of the GO-Ai Centre, GO-Fundamentals or the Stock Quote into its own window, place it on any screen and dock it back when done
 
 ## GO-Ai research assistant
 - Reads the stock you are on: live CW data, SEC filings, trade halts, FINRA short volume, Reg SHO, SSR and insider buys and sells
@@ -27,7 +28,7 @@ A professional desktop trading platform built around **ChartsWatcher**, by SCOTT
 - Playbooks with rule checklists and adherence scoring, missed-trade tracking and reusable mistake tags
 - Twenty report tabs including Journal Score, Profit Trifecta, market-conditions splits (your edge when VIX is above 30), drawdown and account balance
 - A trading coach that answers from your real figures, plus a daily review that remembers past days
-- Broker import from CSV or Excel with presets for 19 brokers, Live and Sim accounts, linked notes with a knowledge graph, export to JSON, CSV or PDF
+- Broker import from CSV or Excel with presets for 20 brokers, Live and Sim accounts, linked notes with a knowledge graph, export to JSON, CSV or PDF
 
 ## Widgets and monitoring
 - Stock Quote quick-view that follows the ticker you click, with score, structure, news and your trade history on it
@@ -46,11 +47,13 @@ Keys are stored encrypted on your PC. AI requests go straight from your machine 
 
 **[Download the latest version from the Releases page](../../releases/latest)**
 
+**[Install Guide (PDF)](SCOTTGO-CW-Desktop-Install-Guide.pdf)** — the full install and first-launch walkthrough.
+
 ### Windows
 1. Download the `.exe` installer from the latest release and run it.
 2. If Windows SmartScreen shows a blue warning (normal for a new unsigned app), click **More info**, then **Run anyway**.
 3. On first run, agree to the terms and activate your licence. No key yet? Choose **Email my key**, enter your email, then paste the key back in to activate.
-4. The Install Guide PDF is bundled in the release zip if you want a walkthrough.
+4. Want a walkthrough? The [Install Guide PDF](SCOTTGO-CW-Desktop-Install-Guide.pdf) is right here in this repo (and bundled in the release zip).
 
 ### macOS
 1. Download the `.dmg` for your Mac: `arm64` for Apple Silicon, `x64` for Intel.
